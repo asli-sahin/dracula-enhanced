@@ -1769,7 +1769,7 @@
     "sideBar.border": "#cb1e1e00",
     "list.inactiveSelectionBackground": "#2e3041",
     "list.inactiveSelectionForeground": "#cccccccc",
-    "list.hoverBackground": "#2e3041",
+    "list.hoverBackground": "#383b4f",
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#2e3041",
     "list.activeSelectionForeground": "#ffffff",
