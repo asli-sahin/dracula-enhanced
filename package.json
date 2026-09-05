@@ -1,0 +1,26 @@
+{
+  "name": "dracula-enhanced",
+  "displayName": "Dracula Enhanced",
+  "description": "A custom VS Code theme inspired by the Dracula color scheme",
+  "version": "1.0.0",
+  "publisher": "Maneki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asli-sahin/dracula-enhanced.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Enhanced",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-enhanced.json"
+      }
+    ]
+  }
+}
