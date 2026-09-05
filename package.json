@@ -4,7 +4,8 @@
   "description": "A custom VS Code theme inspired by the Dracula color scheme",
   "license": "MIT",
   "version": "1.0.0",
-  "publisher": "Maneki",
+  "publisher": "asli-sahin",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/asli-sahin/dracula-enhanced.git"
